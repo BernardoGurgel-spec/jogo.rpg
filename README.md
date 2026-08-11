@@ -1,2 +1,2 @@
 # jogo.rpg
-Jogo em desenvolvimento..
+ Estamos desenvolvendo um jogo de rpg e não está pronto
